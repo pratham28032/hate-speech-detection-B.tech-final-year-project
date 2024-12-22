@@ -1,5 +1,5 @@
 # Hate-Speech-Detection-in-Social-Media-in-Python
-Python code to detect hate speech and classify twitter texts using NLP techniques and Machine Learning
+Python code to detect hate speech and classify twitter texts using NLP techniques and Machine Learning It is a group project that we have submitted as our B.Tech Final year project
 
 **Description of the project:**
 
